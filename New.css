@@ -1,0 +1,255 @@
+body{
+  background-color: black;
+
+}
+.Qn{
+  display: inline-block;
+  background-color:#FF0004;
+  width:100;
+  height:50;
+  left:0px;
+  top:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+}
+#w{
+  display: flex;
+  width:600px;justify-content: center;
+  position: absolute;
+  top:0px;
+  left:0px;
+  width:1350px;
+
+
+}
+#Qm{
+  display: inline-block;
+  background-color: #FF0004;
+  width:100;
+  height:50;
+  left:100;
+  top:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+
+}
+.Q{
+  display: inline-block;
+  background-color: #FF0004;
+  width:100;
+  height:50;
+  left:200;
+  top:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+}
+.Q1{
+  display: inline-block;
+  background-color: #FF0004;
+  width:100;
+  height:50;
+  left:300;
+  top:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor:hand;
+}
+.Q2{
+  display: inline-block;
+  background-color: #FF0004;
+  width:100;
+  height:50;
+  left:400;
+  top:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+}
+.Q3{
+  display: inline-block;
+  background-color: #FF0004;
+  width:100;
+  height:50;
+  left:500;
+  top:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+
+}
+.Q4{
+  display: inline-block;
+  background-color: #FF0004;
+  width:100;
+  height:50;
+  left:600px;
+  top:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+}
+.Q7{
+  display: inline-block;
+  background-color: #FF0004;
+  width:100;
+  height:50;
+  left:700px;
+  top:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+}
+#footer{
+  position: fixed;
+  background-color: #FF0004;
+  width:100%;
+  bottom:0px;
+  height:50px;
+  left:0px;
+  text-align: left;
+  color:#FFFFFF;
+  cursor: hand;
+
+}
+.co{
+  position: fixed;
+  background-color: #FF0004;
+  width:100;
+  height:50;
+  left:400;
+  bottom:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+
+}
+.co9{
+  position: fixed;
+  background-color: #FF0004;
+  width:100;
+  height:50;
+  left:500;
+  bottom:0px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+
+}
+#Fa{
+  position: fixed;
+  background-color: #F6660D;
+  width:120;
+  height:50;
+  left:400;
+  bottom:50px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+
+}
+#In{
+  position: fixed;
+  background-color: #F6660D;
+  width:120;
+  height:50;
+  left:400;
+  bottom:100px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+
+}
+#Ln{
+  position: fixed;
+  background-color: #F6660D;
+  width:120;
+  height:50;
+  left:400;
+  bottom:150px;
+  text-align: center;
+  color:#FFFFFF;
+  cursor: hand;
+
+}
+#f{
+  visibility:hidden;
+
+}
+#cont{
+  position: sticky;
+  width:60px;
+  height:60px;
+  top:260px;
+  left:0px;
+  background-color:#FF0004;
+  text-align: center;
+  color:#FFFFFF;
+  border-radius:60px;
+  cursor: hand;
+}
+#abo{
+  display: inline-block;
+  width: 50%;
+  color:#FFFFFF;
+  top:150px;
+}
+#im{
+  width:100px;
+  height:100px;
+  border-radius: 100px;
+}
+#bo{
+  position: relative;
+  top:130;
+  left: 60px;
+  text-align: center;
+  color:black;
+  background-color:#747373;
+  width:500px;
+  height:500px;
+}
+#comu{
+  position: relative;
+  width:800px;
+  height:800px;
+  color:#FFFFFF;
+  top:200px;
+  left:300px;
+  background-color:black;
+}
+#nm{
+  font-size:35px;
+  position:absolute;
+  width:350px;
+  height:350px;
+}
+#nm2{
+  position:absolute;
+  width:350px;
+  height:350px;
+  left:350px;
+}
+#comu1{
+  position: relative;
+  width:800px;
+  height:800px;
+  color:#FFFFFF;
+  top:100px;
+  left:300px;
+  background-color:black;
+}
+#cv{
+  position:absolute;
+  top:400px;
+  left:300px;
+  background-color:#FF0004;
+  width:100px;
+  height:50px;
+  text-align: center;
+  border-radius:10px;
+  cursor:hand;
+
+}
